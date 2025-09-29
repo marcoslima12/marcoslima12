@@ -4,6 +4,6 @@ It's Marcos Antonio. I'm a Information Systems student at Universidade Federal d
 
 - 🎧 Constantly studying and seeking improvement;
 - 🔧 I’m currently improving my skills in JavaScript, Typescript, ReactJs, React Native, Next.Js and Flutter;
-- 🎙️ I'm also interested in Project Management, with experience of working with Agile Methods as Scrum and Kanbam;
+- 🎙️ I'm also interested in Project Management, with experience of working with Agile Methods as Scrum and Kanbam
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoslima12&count_private=true&show_icons=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)
